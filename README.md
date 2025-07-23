@@ -23,9 +23,9 @@
 <h1>PROJECT SCREENSHOT'S </h1>
 <hr>
 <h2>HERO SECTION</h2>
-<img width="1344" height="644" alt="Image" src="https://github.com/user-attachments/assets/802d86e3-e3df-4a49-bf49-21ceb1b702fe" />
+<img width="1336" height="645" alt="Image" src="https://github.com/user-attachments/assets/a3d37a6d-bcb4-483d-be54-ecd74a5cb468" />
 <hr>
 <h2>BANNER SECTIONS</h2>
-<img width="1336" height="645" alt="Image" src="https://github.com/user-attachments/assets/a3d37a6d-bcb4-483d-be54-ecd74a5cb468" />
+<img width="1344" height="644" alt="Image" src="https://github.com/user-attachments/assets/802d86e3-e3df-4a49-bf49-21ceb1b702fe" />
 
 
