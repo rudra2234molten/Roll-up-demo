@@ -22,11 +22,10 @@
 
 <h1>PROJECT SCREENSHOT'S </h1>
 <hr>
-<h2>HOME SECTION</h2>
-<img width="1348" height="627" alt="Image" src="https://github.com/user-attachments/assets/59cfc6cc-38a3-4e2b-bec9-41213338e860" />
+<h2>HERO SECTION</h2>
+<img width="1344" height="644" alt="Image" src="https://github.com/user-attachments/assets/802d86e3-e3df-4a49-bf49-21ceb1b702fe" />
 <hr>
-<h2>COURSE SECTIONS</h2>
-<img width="1333" height="618" alt="Image" src="https://github.com/user-attachments/assets/84504d66-f28b-4eb0-953b-a29f66b6d5a5" />
-<img width="1340" height="620" alt="Image" src="https://github.com/user-attachments/assets/d5ce0c40-bd27-4889-b48c-2c0b54ef4c3b" />
-<img width="1349" height="614" alt="Image" src="https://github.com/user-attachments/assets/689cb64c-daa7-4a0c-8ab6-9ba54856d17a" />
+<h2>BANNER SECTIONS</h2>
+<img width="1336" height="645" alt="Image" src="https://github.com/user-attachments/assets/a3d37a6d-bcb4-483d-be54-ecd74a5cb468" />
+
 
